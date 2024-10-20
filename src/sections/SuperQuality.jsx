@@ -1,6 +1,6 @@
 import { arrowRight } from "../assets/icons";
 import { shoe8 } from "../assets/images";
-import Button from "../componenets/Button";
+import Button from "../components/Button";
 
 const SuperQuality = () => {
   return (

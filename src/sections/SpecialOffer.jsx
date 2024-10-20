@@ -1,6 +1,6 @@
 import { arrowRight } from "../assets/icons";
 import { offer } from "../assets/images";
-import Button from "../componenets/Button";
+import Button from "../components/Button";
 const SpecialOffer = () => {
   return (
     <section className="max-container flex flex-1 gap-10 items-center flex-wrap">

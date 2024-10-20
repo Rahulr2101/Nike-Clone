@@ -1,5 +1,5 @@
 import { arrowRight } from "../assets/icons"
-import Button from "../componenets/Button"
+import Button from "../components/Button"
 
 const Subscribe = () => {
   return (

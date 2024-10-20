@@ -1,4 +1,4 @@
-import ReviewCard from "../componenets/ReviewCard";
+import ReviewCard from "../components/ReviewCard";
 import {reviews} from "../constants/index"
 const CustomerReviews = () =>{
     return(

@@ -1,4 +1,4 @@
-import ServicesCard from "../componenets/ServicesCard"
+import ServicesCard from "../components/ServicesCard"
 import {services} from "../constants/index"
 
 const Services = () => {
